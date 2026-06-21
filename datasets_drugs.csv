@@ -1,0 +1,16 @@
+Gene,Drug,DrugScore
+EGFR,Gefitinib,95
+EGFR,Erlotinib,92
+ALK,Crizotinib,94
+KRAS,Sotorasib,90
+BRCA1,Olaparib,93
+BRCA2,Olaparib,93
+ERBB2,Trastuzumab,96
+PIK3CA,Alpelisib,91
+BRAF,Dabrafenib,89
+FLT3,Midostaurin,88
+ABL1,Imatinib,97
+JAK2,Ruxolitinib,90
+CDK4,Palbociclib,89
+AKT1,Capivasertib,87
+TP53,APR-246,85

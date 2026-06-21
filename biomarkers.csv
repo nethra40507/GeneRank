@@ -1,0 +1,61 @@
+Disease,Gene
+Lung Cancer,KRAS
+Lung Cancer,PTEN
+Lung Cancer,EGFR
+Lung Cancer,CDKN2A
+Lung Cancer,TP53
+Lung Cancer,BRCA1
+Lung Cancer,ERBB2
+Lung Cancer,DLEC1
+Lung Cancer,MLH1
+Lung Cancer,BRCA2
+Lung Cancer,BRAF
+Lung Cancer,PIK3CA
+Lung Cancer,FGFR2
+Lung Cancer,MALAT1
+Lung Cancer,LCAL1
+Breast Cancer,BRCA2
+Breast Cancer,PTEN
+Breast Cancer,ERBB2
+Breast Cancer,ESR1
+Breast Cancer,CHEK2
+Breast Cancer,TP53
+Breast Cancer,CDH1
+Breast Cancer,AKT1
+Breast Cancer,MLH1
+Breast Cancer,PIK3CA
+Breast Cancer,EGFR
+Breast Cancer,CDK4
+Breast Cancer,MSH2
+Breast Cancer,KRAS
+Breast Cancer,ATM
+Colon Cancer,MSH2
+Colon Cancer,MLH1
+Colon Cancer,APC
+Colon Cancer,PTEN
+Colon Cancer,TP53
+Colon Cancer,BRCA1
+Colon Cancer,MSH6
+Colon Cancer,CTNNB1
+Colon Cancer,ERBB2
+Colon Cancer,PIK3CA
+Colon Cancer,BRCA2
+Colon Cancer,KRAS
+Colon Cancer,BRAF
+Colon Cancer,SMAD4
+Colon Cancer,CHEK2
+Leukemia,MLF1
+Leukemia,TLX3
+Leukemia,RUNX1
+Leukemia,FLT3
+Leukemia,PML
+Leukemia,ABL1
+Leukemia,NPM1
+Leukemia,MLLT10
+Leukemia,ETV6
+Leukemia,JAK2
+Leukemia,TAL1
+Leukemia,DNMT3A
+Leukemia,MPL
+Leukemia,KMT2A
+Leukemia,BCR

@@ -1,0 +1,61 @@
+Disease,Gene,Score
+Lung Cancer,KRAS,401.5
+Lung Cancer,PTEN,399.2
+Lung Cancer,EGFR,395.5
+Lung Cancer,CDKN2A,370.8
+Lung Cancer,TP53,369
+Lung Cancer,BRCA1,363.7
+Lung Cancer,ERBB2,359
+Lung Cancer,DLEC1,356.3
+Lung Cancer,MLH1,341.5
+Lung Cancer,BRCA2,339.9
+Lung Cancer,BRAF,331.8
+Lung Cancer,PIK3CA,331.2
+Lung Cancer,FGFR2,319.5
+Lung Cancer,MALAT1,346.6
+Lung Cancer,LCAL1,357.2
+Breast Cancer,BRCA2,537.7
+Breast Cancer,PTEN,444.8
+Breast Cancer,ERBB2,428.7
+Breast Cancer,ESR1,415.1
+Breast Cancer,CHEK2,397.7
+Breast Cancer,TP53,396.4
+Breast Cancer,CDH1,386.7
+Breast Cancer,AKT1,383.6
+Breast Cancer,MLH1,381.8
+Breast Cancer,PIK3CA,374.4
+Breast Cancer,EGFR,365.1
+Breast Cancer,CDK4,361.8
+Breast Cancer,MSH2,349.7
+Breast Cancer,KRAS,348
+Breast Cancer,ATM,346.4
+Colon Cancer,MSH2,445.5
+Colon Cancer,MLH1,437.7
+Colon Cancer,APC,407.1
+Colon Cancer,PTEN,398.4
+Colon Cancer,TP53,390.1
+Colon Cancer,BRCA1,373.1
+Colon Cancer,MSH6,364.9
+Colon Cancer,CTNNB1,364.8
+Colon Cancer,ERBB2,363.4
+Colon Cancer,PIK3CA,341.5
+Colon Cancer,BRCA2,338.9
+Colon Cancer,KRAS,336.6
+Colon Cancer,BRAF,312.7
+Colon Cancer,SMAD4,312.1
+Colon Cancer,CHEK2,311.5
+Leukemia,MLF1,323.9
+Leukemia,TLX3,316.2
+Leukemia,RUNX1,289.5
+Leukemia,FLT3,286.2
+Leukemia,PML,284.6
+Leukemia,ABL1,271.6
+Leukemia,NPM1,254
+Leukemia,MLLT10,248.6
+Leukemia,ETV6,238.3
+Leukemia,JAK2,229.2
+Leukemia,TAL1,229.1
+Leukemia,DNMT3A,227.6
+Leukemia,MPL,224.9
+Leukemia,KMT2A,224.5
+Leukemia,BCR,222.5
