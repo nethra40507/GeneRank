@@ -31,7 +31,7 @@ drugs_df = pd.read_csv("datasets_drugs.csv")
 
 biomarkers_df.columns = biomarkers_df.columns.str.strip()
 gene_scores_df.columns = gene_scores_df.columns.str.strip()
-interaction_df.columns = interaction_df.columns.str.strip()
+interactions_df.columns = interactions_df.columns.str.strip()
 drugs_df.columns = drugs_df.columns.str.strip()
 
 # -----------------------------------
