@@ -87,9 +87,8 @@ if st.button("🚀 Analyze"):
     # Scores
 
     disease_scores = gene_scores_df[
-        scores_df["Disease"] == disease
-    ]
-
+    gene_scores_df["Disease"] == disease
+]
     st.header("📊 Biomarker Relevance Scores")
 
     st.dataframe(
