@@ -124,10 +124,10 @@ if st.button("🚀 Analyze"):
 
     disease_genes = disease_biomarkers["Gene"].tolist()
 
-    network = interaction_df[
-        interaction_df["Gene1"].isin(disease_genes)
+    network = interactions_df[
+        interactions_df["Gene1"].isin(disease_genes)
         |
-        interaction_df["Gene2"].isin(disease_genes)
+        interactions_df["Gene2"].isin(disease_genes)
     ]
 
     st.header("🧬 Gene Interaction Network")
