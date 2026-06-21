@@ -24,10 +24,10 @@ st.subheader("AI-Powered Cancer Biomarker Prioritization Platform")
 # LOAD DATA
 # -----------------------------------
 
-biomarkers_df = pd.read_csv("datasets/biomarkers.csv")
-scores_df = pd.read_csv("datasets/gene_scores.csv")
-interaction_df = pd.read_csv("datasets/interactions.csv")
-drugs_df = pd.read_csv("datasets/datasets_drugs.csv")
+biomarkers_df = pd.read_csv("biomarkers.csv")
+gene_scores_df = pd.read_csv("gene_scores.csv")
+interactions_df = pd.read_csv("interactions.csv")
+drugs_df = pd.read_csv("datasets_drugs.csv")
 
 biomarkers_df.columns = biomarkers_df.columns.str.strip()
 scores_df.columns = scores_df.columns.str.strip()
