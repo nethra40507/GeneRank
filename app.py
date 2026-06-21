@@ -63,7 +63,7 @@ with c2:
     st.metric("Drug Records", len(drugs_df))
 
 with c3:
-    st.metric("Gene Interactions", len(interaction_df))
+    st.metric("Gene Interactions", len(interactions_df))
 
 # -----------------------------------
 # ANALYSIS
